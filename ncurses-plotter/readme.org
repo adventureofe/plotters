@@ -1,0 +1,6 @@
+/*
+curses-grapher
+By theadventureofe(John Gormley)
+*project description*
+the_adventure_of_e λ
+*/
